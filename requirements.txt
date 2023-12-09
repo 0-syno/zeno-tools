@@ -1,0 +1,13 @@
+psutil
+cryptography
+requests
+pypiwin32
+wmi
+requests-toolbelt
+colorama
+pyinstaller
+cx-Freeze
+pyuac
+pillow
+pycryptodomex
+customtkinter

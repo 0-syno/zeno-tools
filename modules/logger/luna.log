@@ -1,0 +1,338 @@
+[admin.py:29] - 2023-09-05 00:11:38,890 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-05 00:11:38,890 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-05 00:11:39,121 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-05 00:11:39,121 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-05 00:11:48,005 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,409 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:11:49,413 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:812] - 2023-09-05 00:11:58,094 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:391] - 2023-09-05 00:11:58,503 - DEBUG - https://discord.com:443 "GET /api/webhooks/1148394807912300634/AzZ1XiPnj2V-R5Lq8a3AW5ORv4sg984PWzbsL8XR3Vb0ySeXwTwSwoNU63WCliNkYJgj HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-05 00:12:53,940 - INFO - Retrieved filename: test
+[builder.pyw:391] - 2023-09-05 00:12:53,940 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-05 00:12:53,963 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-05 00:12:54,418 - INFO - Successfully obfuscated file: test.py
+[builder.pyw:456] - 2023-09-05 00:12:58,464 - INFO - Successfully pumped file: test.py
+[builder.pyw:425] - 2023-09-05 00:14:21,161 - INFO - Retrieved filename: test2
+[builder.pyw:391] - 2023-09-05 00:14:21,162 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-05 00:14:21,163 - INFO - Successfully changed config
+[builder.pyw:456] - 2023-09-05 00:14:25,364 - INFO - Successfully pumped file: test2.py
+[builder.pyw:425] - 2023-09-05 00:14:25,383 - INFO - Retrieved filename: test2
+[builder.pyw:391] - 2023-09-05 00:14:25,383 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-05 00:14:25,390 - INFO - Successfully changed config
+[builder.pyw:456] - 2023-09-05 00:14:29,872 - INFO - Successfully pumped file: test2.py
+[admin.py:92] - 2023-09-05 00:15:34,031 - INFO - Process handle <PyHANDLE:1516> returned code 0
+[admin.py:29] - 2023-09-05 00:38:15,443 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-05 00:38:15,445 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-05 00:38:15,467 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-05 00:38:15,468 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-05 00:38:18,985 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,256 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,256 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,256 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,257 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,258 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,258 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,258 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,258 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,259 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,260 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,260 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,260 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,260 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-05 00:38:19,260 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:812] - 2023-09-05 00:38:33,823 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:391] - 2023-09-05 00:38:34,083 - DEBUG - https://discord.com:443 "GET /api/webhooks/1148394807912300634/AzZ1XiPnj2V-R5Lq8a3AW5ORv4sg984PWzbsL8XR3Vb0ySeXwTwSwoNU63WCliNkYJgj HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-05 00:38:58,820 - INFO - Retrieved filename: test67
+[builder.pyw:391] - 2023-09-05 00:38:58,820 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-05 00:38:58,826 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-05 00:38:59,319 - INFO - Successfully obfuscated file: test67.py
+[builder.pyw:425] - 2023-09-05 00:39:21,312 - INFO - Retrieved filename: test678
+[builder.pyw:391] - 2023-09-05 00:39:21,312 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-05 00:39:21,314 - INFO - Successfully changed config
+[admin.py:92] - 2023-09-05 00:41:19,346 - INFO - Process handle <PyHANDLE:1476> returned code 0
+[admin.py:29] - 2023-09-07 22:14:28,531 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-07 22:14:28,539 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-07 22:14:28,601 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-07 22:14:28,602 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-07 22:15:06,656 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,610 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,619 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,619 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,619 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,619 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-07 22:15:07,620 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-09-07 22:16:12,434 - INFO - Process handle <PyHANDLE:1528> returned code 0
+[admin.py:29] - 2023-09-10 23:08:35,450 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-10 23:08:35,451 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-10 23:08:35,520 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-10 23:08:35,520 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-10 23:08:38,683 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,055 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,056 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,056 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,056 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,056 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,056 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,057 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,057 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,057 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,058 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,058 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,059 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,059 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,059 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,060 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,060 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,060 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,060 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,060 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,061 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,061 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,061 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,061 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-10 23:08:40,061 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-09-10 23:08:43,162 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-10 23:08:43,905 - DEBUG - https://discord.com:443 "GET /api/webhooks/1150553342767013898/tXfrlCyanRKVBaz3-JZQBCOdaFH34M_dKMY7PDf1GQLb7MOkeQBYsO93Lvph33GDycOy HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-10 23:09:18,960 - INFO - Retrieved filename: Zeno_servers
+[builder.pyw:391] - 2023-09-10 23:09:18,960 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-10 23:09:18,967 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-10 23:09:19,435 - INFO - Successfully obfuscated file: Zeno_servers.py
+[builder.pyw:425] - 2023-09-10 23:11:31,549 - INFO - Retrieved filename: Zeno_servers
+[builder.pyw:391] - 2023-09-10 23:11:31,549 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-10 23:11:31,551 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-10 23:11:31,962 - INFO - Successfully obfuscated file: Zeno_servers.py
+[builder.pyw:425] - 2023-09-10 23:11:42,694 - INFO - Retrieved filename: Zeno_servers
+[builder.pyw:391] - 2023-09-10 23:11:42,694 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-10 23:11:42,696 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-10 23:11:43,101 - INFO - Successfully obfuscated file: Zeno_servers.py
+[admin.py:92] - 2023-09-10 23:14:49,787 - INFO - Process handle <PyHANDLE:1548> returned code 0
+[admin.py:29] - 2023-09-15 21:22:36,232 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-15 21:22:36,233 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-15 21:22:36,286 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-15 21:22:36,287 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-15 21:22:38,361 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,270 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,270 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,270 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,271 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,271 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,271 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,272 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,272 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,272 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,274 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,274 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,274 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,274 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,275 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,277 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,277 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,277 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,277 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,277 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,279 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,280 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,280 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,280 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-15 21:22:39,280 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-09-15 21:23:43,139 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-15 21:23:43,755 - DEBUG - https://discord.com:443 "GET /api/webhooks/1152338952636866761/xvQv-Dd3s-uPxV3Nt7L79lVIHUcOzvSYATCDRtQWiDh4JQQGqCwgD-qcvRnlQI084GiY HTTP/1.1" 200 None
+[connectionpool.py:1048] - 2023-09-15 21:23:49,386 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-15 21:23:49,899 - DEBUG - https://discord.com:443 "GET /api/webhooks/1152338952636866761/xvQv-Dd3s-uPxV3Nt7L79lVIHUcOzvSYATCDRtQWiDh4JQQGqCwgD-qcvRnlQI084GiY HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-15 21:23:55,707 - INFO - Retrieved filename: MAIN
+[builder.pyw:391] - 2023-09-15 21:23:55,707 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-15 21:23:55,711 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-09-15 21:23:55,972 - INFO - Successfully obfuscated file: MAIN.py
+[admin.py:92] - 2023-09-15 21:41:17,397 - INFO - Process handle <PyHANDLE:1524> returned code 0
+[admin.py:29] - 2023-09-24 15:28:49,509 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-24 15:28:49,510 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-24 15:28:49,543 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-24 15:28:49,543 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-24 15:28:51,334 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,496 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,496 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,496 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,497 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,498 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,498 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,498 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,498 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,498 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,499 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,499 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,499 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,500 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,501 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,501 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,501 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:28:51,501 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:425] - 2023-09-24 15:29:21,067 - INFO - Retrieved filename: built
+[builder.pyw:391] - 2023-09-24 15:29:21,067 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-24 15:29:21,078 - INFO - Successfully changed config
+[admin.py:92] - 2023-09-24 15:29:23,406 - INFO - Process handle <PyHANDLE:1532> returned code 0
+[admin.py:29] - 2023-09-24 15:36:01,535 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-24 15:36:01,535 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-24 15:36:01,550 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-24 15:36:01,551 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-24 15:36:03,964 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,533 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,534 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,534 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,534 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,534 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,534 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,535 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:36:04,536 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:422] - 2023-09-24 15:36:16,708 - INFO - Retrieved filename: test-YxRGk
+[builder.pyw:394] - 2023-09-24 15:36:16,709 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-09-24 15:36:16,709 - INFO - Changed filetype: File Options
+[builder.pyw:394] - 2023-09-24 15:36:16,709 - INFO - Changed filetype: File Options
+[builder.pyw:425] - 2023-09-24 15:36:19,186 - INFO - Retrieved filename: e
+[builder.pyw:391] - 2023-09-24 15:36:19,187 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-24 15:36:19,188 - INFO - Successfully changed config
+[admin.py:92] - 2023-09-24 15:36:20,474 - INFO - Process handle <PyHANDLE:1500> returned code 0
+[admin.py:29] - 2023-09-24 15:37:31,717 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-24 15:37:31,717 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-24 15:37:31,722 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-24 15:37:31,722 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-24 15:37:33,653 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,746 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:37:33,747 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-09-24 15:37:35,104 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-24 15:37:35,615 - DEBUG - https://discord.com:443 "GET /api/webhooks/1155513004281057390/-wzItp6EH6bkmfrQCYcUlzjnB8pU1Ykj0TOpEHaxf2-blvsFgJnAdi1XGjmVk5x_P54X HTTP/1.1" 200 None
+[connectionpool.py:1048] - 2023-09-24 15:37:35,738 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-24 15:37:36,191 - DEBUG - https://discord.com:443 "GET /api/webhooks/1155513004281057390/-wzItp6EH6bkmfrQCYcUlzjnB8pU1Ykj0TOpEHaxf2-blvsFgJnAdi1XGjmVk5x_P54X HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-24 15:37:40,037 - INFO - Retrieved filename: e
+[builder.pyw:391] - 2023-09-24 15:37:40,037 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-24 15:37:40,040 - INFO - Successfully changed config
+[admin.py:92] - 2023-09-24 15:37:41,831 - INFO - Process handle <PyHANDLE:1496> returned code 0
+[admin.py:29] - 2023-09-24 15:39:14,369 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-24 15:39:14,369 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-24 15:39:14,374 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-24 15:39:14,375 - INFO - Running command 'C:\\Users\\Rob\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - 'C:\\Users\\Rob\\Downloads\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-24 15:39:16,119 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,211 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,211 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,211 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,211 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,212 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-24 15:39:16,213 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-09-24 15:39:26,193 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-09-24 15:39:26,694 - DEBUG - https://discord.com:443 "GET /api/webhooks/1155513004281057390/-wzItp6EH6bkmfrQCYcUlzjnB8pU1Ykj0TOpEHaxf2-blvsFgJnAdi1XGjmVk5x_P54X HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-09-24 15:39:50,194 - INFO - Retrieved filename: e
+[builder.pyw:391] - 2023-09-24 15:39:50,196 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-09-24 15:39:50,198 - INFO - Successfully changed config
+[admin.py:92] - 2023-09-24 15:39:52,644 - INFO - Process handle <PyHANDLE:1568> returned code 0
